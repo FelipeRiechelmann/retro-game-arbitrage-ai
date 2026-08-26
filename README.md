@@ -18,8 +18,6 @@ Finding undervalued retro video games on C2C marketplaces (e.g., OLX) usually re
 
 ## 📐 System Architecture
 
-![Simplified System Architecture](docs/Flow retro game.jpeg)
-
 ```text
 Scraper (OLX) ➔ n8n Orchestrator ➔ Gemini 1.5 Flash (Vision + Pricing)
                                          │
